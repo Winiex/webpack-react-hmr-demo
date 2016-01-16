@@ -1,6 +1,6 @@
-#w# Introduction
+## Introduction
 
-A simple demo for react HMR on webpack.
+A simple demo for react [HMR](https://webpack.github.io/docs/hot-module-replacement-with-webpack.html) on webpack.
 
 ## Installation
 
