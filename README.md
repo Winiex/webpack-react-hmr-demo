@@ -21,7 +21,7 @@ Then you can visit the demo in http://localhost:8080/.
 ## Test HMR functionality
 
 1. Open app/components/Counter.js
-2. Change the count increment amount in line 20
+2. Change the counter increment in line 20
 3. Watch the result in browser
 
 ## Credits
